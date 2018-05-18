@@ -1,6 +1,6 @@
 
- var privateKey = privateKeyMarvel;
- var publicKey = 'publicKeyMarvel';
+var privateKeyMarvel = 'fd677ca1a7179fc0fd3d391c112a766d255ca330';
+var publicKeyMarvel = '92c98cfd032165a4e664ea0b53491be5';
 
 
 function getMarvelComics() {
